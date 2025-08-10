@@ -13,8 +13,8 @@ title                    : "Arman Mohammadi"
 title_separator          : "-"
 name                     : &name "Arman Mohammadi"
 description              : &description "Civil and Environmental Engineer"
-url                      : https://EzArmanim.github.io/Arman-Mohammadi/ # the base hostname & protocol for your site e.g. "https://EzArmanim.github.io/Arman-Mohammadi/" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://EzArmanim.github.io" # the base hostname & protocol for your site e.g. "https://EzArmanim.github.io/Arman-Mohammadi/" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/Arman-Mohammadi" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
