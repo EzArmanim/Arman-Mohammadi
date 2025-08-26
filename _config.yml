@@ -1,26 +1,20 @@
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Arman Mohammadi"
-title_separator          : "-"
-name                     : &name "Arman Mohammadi"
-description              : &description "Hydrology and Hydroclimatology — available Oct 2025"
-url                      : "https://EzArmanim.github.io"
-baseurl                  : "/Arman-Mohammadi"
-repository               : "EzArmanim/Arman-Mohammadi"
+title: "Arman Mohammadi"
+description: "Hydrology and Hydroclimatology — available Oct 2025"
+url: "https://EzArmanim.github.io"
+baseurl: "/Arman-Mohammadi"
+repository: "EzArmanim/Arman-Mohammadi"
 
-# Site Author
 author:
-  avatar           : "profile.png"
-  name             : "Arman Mohammadi"
-  pronouns         : # optional
-  bio              : "MSc Candidate in Environmental and Land Engineering at Politecnico di Torino. Researching hydrology, hydroclimatology, and long-term river flow changes."
-  location         : "Turin, Italy"
-  employer         : "Politecnico di Torino"
-  email            : "arman.mohammadi@studenti.polito.it" 
+  avatar: "profile.png"     # put this image in the repo root
+  name: "Arman Mohammadi"
+  bio: "MSc candidate; research in hydrology & hydroclimatology, long-term river-flow changes."
+  location: "Turin, Italy"
+  employer: "Politecnico di Torino"
+  email: "arman.mohammadi@studenti.polito.it"
+  github: "EzArmanim"
+  linkedin: "arman-mohamadi"
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
 
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/" # replace with your ORCID if you have one
   researchgate     : # add if you have
   scopus           : # add if you have
