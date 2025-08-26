@@ -25,6 +25,12 @@ author:
   researchgate     : # add if you have
   scopus           : # add if you have
 
+ # add/ensure these are present
+minimal_mistakes_skin: default   # you can try "air", "contrast", or "dirt" if you want a lighter look
+logo:                            # leave blank (no top-left logo)
+author:
+  avatar: "profile.png"          # put this image in the repo root or /images/
+
   # Repositories
   github           : "EzArmanim"
 
