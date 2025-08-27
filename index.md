@@ -1,4 +1,5 @@
 ---
+
 layout: single
 title: "Arman Mohammadi"
 permalink: /
@@ -14,7 +15,9 @@ I’m an MSc candidate at Politecnico di Torino focusing on **trend detection** 
 
 - **Interests:** hydro-climate extremes, hydrological modelling, calibration & uncertainty, downscaling, remote sensing of ET & soil moisture
 - **Email:** arman.mohammadi@studenti.polito.it
-- **Location:** Turin, Italy
+- **Location:** Turin,
+- Italy
+- 
 
 ## Education
 
@@ -77,6 +80,8 @@ Prepared water-infrastructure drawings & BOQs; coordinated more than seven desig
 **Junior Civil Engineer – Water and Wastewater Projects**, Water and Wastewater Company of Kurdistan (Intern → Engineer) (September 2019 – June 2021).  
 Assisted supervision of 10+ rural and urban supply networks; produced cost analyses and progress reports.
 
+
+
 ## Publications & Conferences
 
 **Journal Article:** Ouhadi, V. R., **Mohammadi, A.**, & Bahadorinezhad, O. R. (2020). *Impact of enhancement with calcium-chloride solution on the electrolysis and electro-osmosis mechanisms of clayey soils in electrokinetic processes.* Modares Civil Engineering Journal, 20(4), 55–64.
@@ -99,3 +104,4 @@ Assisted supervision of 10+ rural and urban supply networks; produced cost analy
 **Prof. Paola Mazzoglio** — Assistant Professor, Department of Environment, Land & Infrastructure Engineering (DIATI), Politecnico di Torino, paola.mazzoglio@polito.it.
 
 **Prof. Tiziana Tosco** — Associate Professor, Department of Environment, Land & Infrastructure Engineering (DIATI), Politecnico di Torino, tiziana.tosco@polito.it.
+
