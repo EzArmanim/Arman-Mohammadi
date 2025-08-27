@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: home
 title: "Arman Mohammadi"
-permalink: /  
+pepermalink: /  
 
 author_profile: true
 header:
