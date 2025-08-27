@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: single
 title: "Arman Mohammadi"
-permalink: /  
-
+permalink: /
 author_profile: true
 header:
   overlay_color: "#000"
