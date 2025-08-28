@@ -16,8 +16,7 @@ I’m an Environmental and Land Engineering MSc candidate at Politecnico di Tori
 - **Interests:** hydro-climate extremes, hydrological modelling, calibration & uncertainty, downscaling, remote sensing of ET & soil moisture
 - **Email:** arman.mohammadi@studenti.polito.it
 - **Location:** Turin, Italy
-- 
-- 
+  
 
 ## Education
 
