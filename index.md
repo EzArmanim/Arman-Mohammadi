@@ -11,12 +11,12 @@ header:
 
 **Hydrology and Hydroclimatology — available Oct 2025**
 
-I’m an MSc candidate at Politecnico di Torino focusing on **trend detection** and **climatic attribution** of river flows. I build Python/GIS workflows for annual, seasonal, and monthly metrics (mean/low/high), mapping spatial patterns relevant to water management, drought planning, and flood risk.
+I’m an Environmental and Land Engineering MSc candidate at Politecnico di Torino focusing on climate change, **trend detection** and **climatic attribution** of river flows. I build Python/GIS workflows for annual, seasonal, and monthly metrics (mean/low/high), mapping spatial patterns relevant to water management, drought planning, and flood risk.
 
 - **Interests:** hydro-climate extremes, hydrological modelling, calibration & uncertainty, downscaling, remote sensing of ET & soil moisture
 - **Email:** arman.mohammadi@studenti.polito.it
-- **Location:** Turin,
-- Italy
+- **Location:** Turin, Italy
+- 
 - 
 
 ## Education
