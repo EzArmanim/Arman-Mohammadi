@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 header:
   title: "Arman Mohammadi"
-  subtitle: "Hydrology and Hydroclimatology — available Oct 2025"
+  subtitle: "Civil and Environmental Engineer"
 ---
 
 ## Profile
@@ -31,7 +31,7 @@ I am a hydrology and hydroclimatology researcher with a focus on **trend detecti
 - **M.Sc. in Environmental and Land Engineering (Climate Change)** — *Politecnico di Torino, Italy* (2022 – **expected Oct 2025**).  
   **Thesis:** *Unveiling long‑term changes in river flow regimes: trends, drivers and attribution across Northern Italy*.  
   **Supervisors:** Dr. Paola Mazzoglio, Dr. Alberto Viglione; **Co‑supervisor:** Dr. Miriam Bertola (TU Wien).  
-  **GPA:** 27.5/30.
+  **GPA:** 105/110.
 
 - **M.Sc. in Civil Engineering** — *Bu Ali‑Sina University, Iran* (2015 – 2018).  
   **GPA:** 3.65/4.0.
@@ -122,6 +122,7 @@ I am a hydrology and hydroclimatology researcher with a focus on **trend detecti
 | Kurdish  | Native / bilingual proficiency   |
 | Persian  | Native proficiency               |
 | English  | Professional proficiency (C1)     |
+| Italian   | Intermediate proficiency (B1)      |
 | German   | Elementary proficiency (A2)      |
 
 ## References
