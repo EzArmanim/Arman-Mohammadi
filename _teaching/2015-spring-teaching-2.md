@@ -9,12 +9,3 @@ location: "Sanandaj, Iran"
 ---
 
 Private tutoring for the undergraduate students
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
